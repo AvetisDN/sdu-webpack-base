@@ -1,0 +1,1 @@
+export default 'Привет Мир, я JS'
